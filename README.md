@@ -1,7 +1,7 @@
 # Mahtab Codes
 ## Introduction
 
-## Tech Stacl
+## Tech Stack
 
 ## Features & Pages
 
